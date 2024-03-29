@@ -1,12 +1,6 @@
 ## Olá, eu sou o Lucas Barbosa!
 
 <div align="center">
-  - Atualmente estou trabalhando com PHP...
-  <br>
-  - Atualmente estou estudando React, Typescript, Tailwind css, Flutter...
-</div>
-
-<div align="center">
   <a href="https://github.com/lucasbars">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbars&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbars&layout=compact&langs_count=7&theme=dracula"/>
@@ -18,8 +12,3 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-<<<<<<< HEAD
-</div>
-=======
-</div>
->>>>>>> 28a6aa3f4d41786ca1473cc8221265b90f3feee2
