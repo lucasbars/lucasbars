@@ -1,6 +1,11 @@
+## Olá, eu sou o Lucas Barbosa!
+
 <div align="center">
-## Olá eu sou o Lucas Barbosa!
+  - Atualmente estou trabalhando com PHP...
+  <br>
+  - Atualmente estou estudando React, Typescript, Tailwind css, Flutter...
 </div>
+
 <div align="center">
   <a href="https://github.com/lucasbars">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbars&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
