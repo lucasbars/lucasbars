@@ -2,7 +2,7 @@
 
 I'm Lucas Barbosa, Developer/Analyst a Brazil. 
 
-❤️ I love working with web software development.
+* ❤️ I love working with web software development.
 
 <div align="center">
   <a href="https://github.com/lucasbars">
