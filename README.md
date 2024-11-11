@@ -1,4 +1,6 @@
-## Olá, eu sou o Lucas Barbosa!
+# 👋 Hello!
+
+I'm Lucas Barbosa, a Pleno Web Developer from Brazil. 
 
 <div align="center">
   <a href="https://github.com/lucasbars">
