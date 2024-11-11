@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-I'm Lucas Barbosa, a Pleno Web Developer from Brazil. 
+I'm Lucas Barbosa, Developer/Analyst a Brazil. 
 
 <div align="center">
   <a href="https://github.com/lucasbars">
