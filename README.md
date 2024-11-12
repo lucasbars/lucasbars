@@ -2,15 +2,14 @@
 
 I'm Lucas Barbosa, Developer/Analyst a Brazil. 
 
+* 🎓 Graduated in systems analysis and development.
 * ❤️ I love working with web software development.
+* 💻 I currently work with PHP Fullstack.
+* 💡  I like to explore new technologies and develop software solutions and quick hacks.
+* 🌱 I’m currently learning everything 🤣
+* 🎵 I love to hear rock music.
 
-<!-- <div align="center">
-  <a href="https://github.com/lucasbars">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbars&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbars&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
-
-##
+### 🛠 &nbsp;Tech Stack
 
 <div align="center"><br>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,git,figma,react,typescript,javascript,php,flutter,docker,mongodb,mysql,postgres,yarn,nodejs" />
