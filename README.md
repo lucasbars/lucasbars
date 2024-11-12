@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-I'm Lucas Barbosa, full stack web developer a Brazil. 
+I'm Lucas, full stack web developer a Brazil. 
 
 * 🎓 Graduated in systems analysis and development.
 * ❤️ I love working with web software development.
