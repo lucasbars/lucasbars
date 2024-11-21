@@ -6,7 +6,7 @@ I'm Lucas, full stack web developer a Brazil.
 * ❤️ I love working with web software development.
 * 💻 I currently work with PHP.
 * 💡  I like to explore new technologies and develop software solutions and quick hacks.
-* 🌱 I’m currently learning everything 🤣
+* 🌱 I’m currently learning everything.
 * 🎵 I love to hear rock music.
 * 💬 Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
 
